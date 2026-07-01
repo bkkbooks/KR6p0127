@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6p0127/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0127/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 影響集
+  identifiers:
+    krp: KR6p0127
+    cbeta: X62n1209
+    cbeta_old_id: X62n1209
+    authorityid: CA0003795
+    json_key: X1209
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1209.xml
+    old_id: X62n1209
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0127_000-X.yaml, hash: 'sha256:51f59376189767aee74678e51afa078324448fa5b757500becedaf56ecf67642'}
+  - {seq: 1, filename: KR6p0127_001-X.yaml, hash: 'sha256:9ec0b483fd90d3a67d8bb5a4666f93532b6af37dc2a9e024341dae812764e49e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0127_000-X.markers.yaml, hash: 'sha256:b359dca54c16c618036d20e39e3200f456ff837a83328d47c0f87a6b6b84f13a'}
+  - {seq: 1, role: markers, filename: assets/KR6p0127_001-X.markers.yaml, hash: 'sha256:b295297528d22771b1df40ab67ad53ec892d0e728e306b333d9e0fc7ef4250f3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3708
+  label: 影響集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-2
+    span:
+    - body
+    - 233
+    - 233
+  label: 偶作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-3
+    span:
+    - body
+    - 291
+    - 291
+  label: 二十四氣省懷詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-4
+    span:
+    - body
+    - 384
+    - 384
+  label: 無題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-5
+    span:
+    - body
+    - 744
+    - 744
+  label: 聚沙菴歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-6
+    span:
+    - body
+    - 924
+    - 924
+  label: 經題如是
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-7
+    span:
+    - body
+    - 968
+    - 968
+  label: 擬古為平湖陸孝女作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-8
+    span:
+    - body
+    - 1085
+    - 1085
+  label: 念佛詩四十八首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-9
+    span:
+    - body
+    - 2490
+    - 2490
+  label: 阿育王舍利塔前然指願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-10
+    span:
+    - body
+    - 2797
+    - 2797
+  label: 目前機䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0127_X_001-mulu-11
+    span:
+    - body
+    - 2970
+    - 2970
+  label: 警眾語
+  type: mulu
+  level: 1
+hash: sha256:02da54f99d588d3c11ae2ac5c0ae1582c545a14fe34c7f9306fb940bf3e33bc6

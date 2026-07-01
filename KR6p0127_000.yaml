@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0127/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 影響集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1209.xml
+    old_id: X62n1209
+hash: sha256:51f59376189767aee74678e51afa078324448fa5b757500becedaf56ecf67642
